@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Coding enthusiast
 ----------------------
 
-Hi there! My name is Oliver Steiner and I mainly make games and I try to make websites with React.
+Hi there! My name is Oliver Steiner and I mainly make video games!
 
 * 🌍  I live in Prague
 * 🖥️  You can look at my other socials on [My website](http://jsemolik.cz)
