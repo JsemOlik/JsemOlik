@@ -8,7 +8,6 @@ Hi there! My name is Oliver Steiner and I mainly make games and I try to make we
 
 * 🌍  I live in Prague
 * 🖥️  You can look at my other socials on [My website](http://jsemolik.cz)
-* ✉️  You can e-mail me at [frnotovi@gmail.com](mailto:frnotovi@gmail.com)
 * 🧠  I'm currently learning [React ](http://react.dev/)
 
 ### Skills
