@@ -18,6 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemolik)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsemolik&show_icons=true&locale=en&layout=compact" alt="jsemolik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsemolik&show_icons=true&locale=en" alt="jsemolik" /></p>
