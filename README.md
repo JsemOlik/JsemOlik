@@ -13,6 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsemolik&show_icons=true&theme=jolly)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsemolik&layout=compact)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsemolik&show_icons=true&locale=en&layout=compact" alt="jsemolik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsemolik&show_icons=true&locale=en" alt="jsemolik" /></p>
