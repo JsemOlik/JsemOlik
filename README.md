@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm a 14-year-old tech enthusiast from near Prague
 
 ## 🌟 Projects
 
-- **Game Development**: Working on an FPS game aiming to deliver an immersive experience.
-- **Web Development**: Developed a personal portfolio showcasing my projects and skills.
+- **Quark Tools**: Developing free, open-source tools to support developers.
 - **3D Printing**: Created custom designs and prototypes, blending engineering with creativity.
 
 ## 🎧 Music Interests
