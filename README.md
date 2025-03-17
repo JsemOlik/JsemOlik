@@ -30,11 +30,7 @@ I'm into genres like techno and hardstyle—anything with lots of bass!
 ## 📫 Let's Connect
 
 - **Twitch**: [Twitch Affiliate](https://www.twitch.tv/yourusername)
-- **4CAMPS Enthusiast**: Active participant and supporter of [4CAMPS](https://www.4camps.cz/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, gaming, or any shared interests!
 
 ---
-
-*Generated with ❤️ by [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)*
-
