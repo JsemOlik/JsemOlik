@@ -5,10 +5,8 @@ Welcome to my GitHub profile! I'm a 14-year-old tech enthusiast from near Prague
 ## 🚀 About Me
 
 - 🎮 **Gaming Enthusiast**: I enjoy playing FPS and survival games. In the VR world, my top picks are Beat Saber and Half-Life Alyx.
-- 🎨 **Graphic Designer**: I dabble in graphic design, always exploring new creative avenues.
-- 🛠 **Tech Nerd**: From servers to the latest gadgets, I love diving deep into technology.
-- 🏹 **Archer**: Started archery last summer and can now shoot up to 50 meters!
-- 🧠 **Aspiring Engineer**: Inspired by Mark Rober, I'm keen on experimenting with Arduinos and Raspberry Pi projects.
+- 🎨 **Graphic Designer**: I dip my toes in graphic design, always exploring new creative avenues.
+- 🛠 **Tech Nerd**: From servers to just cool stuff, I love diving deep into technology.
 
 ## 🛠 Tech Stack
 
@@ -40,12 +38,12 @@ Welcome to my GitHub profile! I'm a 14-year-old tech enthusiast from near Prague
 
 ## 🎧 Music Interests
 
-I'm into genres like techno and hardstyle—anything with lots of bass!
+I'm into genres like techno and hardstyle — anything with lots of bass, or just white girl music.
 
 ## 📫 Let's Connect
 
-- **Twitch**: [Twitch Affiliate](https://www.twitch.tv/yourusername)
+- **Twitch**: [Twitch Affiliate](https://www.twitch.tv/jsemolikk)
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, gaming, or any shared interests!
+Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 ---
