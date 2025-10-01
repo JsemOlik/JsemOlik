@@ -1,12 +1,13 @@
-# Hi there, I'm Oliver! 👋
+# Hey, I'm Oliver 👋
 
-Welcome to my GitHub profile! I'm a 14-year-old tech enthusiast from near Prague, Czech Republic, passionate about game development, web development, and all things coding.
+I'm a 14-year-old developer from Prague. I mainly build websites, but I also make games on the side, and do anything that seems fun or challenging. I’m also into homelabbing, servers, and messing around with tech in general.
 
-## 🚀 About Me
+<h1>Check out my portfolio [here](https://www.jsemolik.dev/)</h1>
 
-- 🎮 **Gaming Enthusiast**: I enjoy playing FPS and survival games. In the VR world, my top picks are Beat Saber and Half-Life Alyx.
-- 🎨 **Graphic Designer**: I dip my toes in graphic design, always exploring new creative avenues.
-- 🛠 **Tech Nerd**: From servers to just cool stuff, I love diving deep into technology.
+## What I’m into
+- 🎮 Gaming: mostly FPS and survival. In VR, it’s Beat Saber and Half‑Life: Alyx.
+- 👩‍💻 Coding: I make websites/apps with frameworks like [Laravel](https://laravel.com/) or [NextJS](https://nextjs.org/), and do some game development on the side.
+- 💻 Tech: Linux, Docker, and homelabs are my happy place :)
 
 ## 🛠 Tech Stack
 
@@ -33,17 +34,22 @@ Welcome to my GitHub profile! I'm a 14-year-old tech enthusiast from near Prague
 
 ## 🌟 Projects
 
-- **[Quark Tools](https://quark.jsemolik.dev/)**: Developing free, open-source tools to support developers.
-- **3D Printing**: Created custom designs and prototypes, blending engineering with creativity.
+- **[Quark Hosting](https://quark.jsemolik.dev/)**: Providing affordable, and performant game servers for everyone.
 
 ## 🎧 Music Interests
 
-I'm into genres like techno and hardstyle — anything with lots of bass, or just white girl music.
+Techno, hardstyle, DnB—basically anything with heavy bass. Here's my [playlist](https://open.spotify.com/playlist/5hOAJX1YoTmcpS9gIrkvLb?si=7fde1c3bead14f7b) for anyone interested
 
 ## 📫 Let's Connect
 
-- **Twitch**: [Twitch Affiliate](https://www.twitch.tv/jsemolikk)
+- **E-Mail**: [hello@jsemolik.dev](mailto:hello@jsemolik.dev)
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+Check out my repos and contact me  if you want to build something cool :D
 
 ---
+
+### ✨ My GitHub Stats
+
+<a href="http://www.github.com/JsemOlik"><img src="https://github-readme-stats.vercel.app/api?username=JsemOlik&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="DanCvejn's GitHub stats" /></a>
+
+<a href="https://github.com/JsemOlik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsemOlik&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
