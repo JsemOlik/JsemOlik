@@ -2,7 +2,7 @@
 
 I'm a 14-year-old developer from Prague. I mainly build websites, but I also make games on the side, and do anything that seems fun or challenging. I’m also into homelabbing, servers, and messing around with tech in general.
 
-<h1>Check out my portfolio [here](https://www.jsemolik.dev/)</h1>
+# Check out my portfolio [here](https://www.jsemolik.dev/)
 
 ## What I’m into
 - 🎮 Gaming: mostly FPS and survival. In VR, it’s Beat Saber and Half‑Life: Alyx.
