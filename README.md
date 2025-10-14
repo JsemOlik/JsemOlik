@@ -2,9 +2,10 @@
 
 I'm a 14-year-old developer from Prague. I mainly build websites, but I also make games on the side, and do anything that seems fun or challenging. I’m also into homelabbing, servers, and messing around with tech in general.
 
-# Check out my portfolio [here](https://www.jsemolik.dev/)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/846078736205479937?animatedDecoration=true&hideNameplate=false&showDisplayName=false&hideDecoration=false&hideClan=false&hideProfile=false&imgStyle=circle&idleMessage=I'm%20not%20doing%20anything%20%3A)&hideBadges=false&hideTimestamp=false&hideActivity=false&bg=221221&waveColor=472145&clanbg=472145&gradient=BA25B3&waveSpotifyColor=1E8F4C)](https://discord.com/users/846078736205479937)
+Check out my portfolio [here](https://www.jsemolik.dev/) :)
 
-## What I’m into
+## What I do
 - 🎮 Gaming: mostly FPS and survival. In VR, it’s Beat Saber and Half‑Life: Alyx.
 - 👩‍💻 Coding: I make websites/apps with frameworks like [Laravel](https://laravel.com/) or [NextJS](https://nextjs.org/), and do some game development on the side.
 - 💻 Tech: Linux, Docker, and homelabs are my happy place :)
@@ -36,20 +37,10 @@ I'm a 14-year-old developer from Prague. I mainly build websites, but I also mak
 
 - **[Quark Hosting](https://quark.jsemolik.dev/)**: Providing affordable, and performant game servers for everyone.
 
-## 🎧 Music Interests
-
-Techno, hardstyle, DnB—basically anything with heavy bass. Here's my [playlist](https://open.spotify.com/playlist/5hOAJX1YoTmcpS9gIrkvLb?si=7fde1c3bead14f7b) for anyone interested
-
 ## 📫 Let's Connect
 
 - **E-Mail**: [hello@jsemolik.dev](mailto:hello@jsemolik.dev)
 
-Check out my repos and contact me  if you want to build something cool :D
+Check out my repos and contact me if you want to build something cool :D
 
 ---
-
-### ✨ My GitHub Stats
-
-<a href="http://www.github.com/JsemOlik"><img src="https://github-readme-stats.vercel.app/api?username=JsemOlik&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="DanCvejn's GitHub stats" /></a>
-
-<a href="https://github.com/JsemOlik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsemOlik&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
