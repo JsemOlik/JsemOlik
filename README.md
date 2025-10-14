@@ -2,7 +2,8 @@
 
 I'm a 14-year-old developer from Prague. I mainly build websites, but I also make games on the side, and do anything that seems fun or challenging. I’m also into homelabbing, servers, and messing around with tech in general.
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/846078736205479937?animatedDecoration=true&hideNameplate=false&showDisplayName=false&hideDecoration=false&hideClan=false&hideProfile=false&imgStyle=circle&idleMessage=I'm%20not%20doing%20anything%20%3A)&hideBadges=false&hideTimestamp=false&hideActivity=false&bg=221221&waveColor=472145&clanbg=472145&gradient=BA25B3&waveSpotifyColor=1E8F4C)](https://discord.com/users/846078736205479937)
+<a href="https://discord.com/users/846078736205479937"><img src="https://lanyard.kyrie25.dev/api/846078736205479937?animatedDecoration=true&hideNameplate=false&showDisplayName=false&hideDecoration=false&hideClan=false&hideProfile=false&imgStyle=circle&idleMessage=I'm%20not%20doing%20anything%20%3A)&hideBadges=false&hideTimestamp=false&hideActivity=false&bg=221221&waveColor=472145&clanbg=472145&gradient=BA25B3&waveSpotifyColor=1E8F4C" /></a>
+
 Check out my portfolio [here](https://www.jsemolik.dev/) :)
 
 ## What I do
