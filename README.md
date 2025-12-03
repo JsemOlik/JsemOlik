@@ -11,9 +11,6 @@ I'm a 15-year-old full-stack web developer from Prague. I mainly build websites,
   </a>
 </p>
 
-#<p align="center">
-#  Check out my portfolio <a href="https://www.jsemolik.dev/">here</a> :)
-#</p>
 
 ## 🛠 Tech Stack
 
