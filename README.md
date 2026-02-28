@@ -11,6 +11,8 @@ I'm a 15-year-old full-stack web developer from Prague. I mainly build websites,
   </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/213f90bf-9d23-4a8f-8b2d-16a0de285cd1.svg)](https://wakatime.com/@213f90bf-9d23-4a8f-8b2d-16a0de285cd1)
+
 
 ## 🛠 Tech Stack
 
