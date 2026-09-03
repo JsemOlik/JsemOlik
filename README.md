@@ -17,7 +17,7 @@ Full-stack web developer from Prague, building websites, games, and homelab infr
 
 ### 🚀 What I'm doing now
 
-- I work at <a href="https://www.4camps.cz/" target="_blank">4CAMPS</a> as a full-stack web developer, IT technician, and photographer!
+- I work at [4CAMPS](https://www.4camps.cz) as a full-stack web developer, IT technician, and photographer!
 - Making games and web apps on the side
 - Running my own homelab — servers, self-hosting, and general tech tinkering
 
