@@ -1,74 +1,65 @@
-# Hey, I'm Oliver 👋
-
-I'm a 15-year-old full-stack web developer from Prague. I mainly build websites, but I also make games on the side, and do anything that seems fun or challenging. I’m also into homelabbing, servers, and messing around with tech in general.
+<h1 align="center">Hey, I'm Oliver 👋</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/846078736205479937">
-    <img
-      src="https://lanyard.kyrie25.dev/api/846078736205479937?animatedDecoration=true&hideNameplate=false&showDisplayName=false&hideDecoration=false&hideClan=false&hideProfile=false&imgStyle=circle&idleMessage=I'm%20not%20doing%20anything%20%3A)&hideBadges=false&hideTimestamp=false&hideActivity=false&bg=221221&waveColor=572454&clanbg=472145&gradient=BA25B3&waveSpotifyColor=1E8F4C"
-      alt="Discord Presence"
-    />
-  </a>
+Full-stack web developer from Prague, building websites, games, and homelab infrastructure for fun.
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/213f90bf-9d23-4a8f-8b2d-16a0de285cd1.svg)](https://wakatime.com/@213f90bf-9d23-4a8f-8b2d-16a0de285cd1)
+<div align="center">
+	<a href="https://last.fm/user/jsemolik"><img src="https://lastfm-recently-played.vercel.app/api?user=jsemolikk&count=3" height=200 /></a>
+</div>
 
+<div align="center">
+	  <a href="http://jsemolik.dev"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=jsemolik&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 /></a>
+  	<a href="http://jsemolik.dev"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=jsemolik&langs_count=6&layout=compact&theme=react&hide_border=true" /></a>
+</div>
 
-## 🛠 Tech Stack
+---
 
-- <strong>Languages</strong>:
-  <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="28" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="28" />
-  </div>
+### 🚀 What I'm doing now
 
-- <strong>Frameworks and Libraries</strong>:
-  <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="28" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="28" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="28" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" height="28" />
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="28" />
-  </div>
+- I work at <a href="https://www.4camps.cz/" target="_blank">4CAMPS</a> as a full-stack web developer, IT technician, and photographer!
+- Making games and web apps on the side
+- Running my own homelab — servers, self-hosting, and general tech tinkering
 
-- <strong>Databases</strong>:
-  <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
-    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" height="28" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28" />
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="28" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" height="28" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="28" />
-  </div>
+### 🛠 Tech Stack
 
-- <strong>Tools</strong>:
-  <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="28" />
-    <img src="https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="NixOS" height="28" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" height="28" />
-    <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" alt="Proxmox" height="28" />
-  </div>
+**Languages** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-- <strong>Design Software</strong>:
-  <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" height="28" />
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects" height="28" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" height="28" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="28" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="28" />
-  </div>
+**Frameworks** &nbsp;
+![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=Vite&logoColor=white)
 
-## 🌟 Projects
+**Databases** &nbsp;
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=SQLite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=Firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
 
-- <strong>Quark Hosting</strong>: Providing affordable, and performant game servers for everyone. (coming soon :D)
+**Infra & Tools** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-proxmox?style=flat-square&logo=Proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
-## 📫 Let's Connect
+**Design** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=Figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=Blender&logoColor=white)
 
-- <strong>E‑Mail</strong>: <a href="mailto:hello@jsemolik.dev">hello@jsemolik.dev</a>
+### 📫 Contact
 
-Check out my repos and contact me if you want to build something cool :D
+[hello@jsemolik.dev](mailto:hello@jsemolik.dev) — feel free to reach out if you want to build something cool.
 
 ---
