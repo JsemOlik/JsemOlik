@@ -10,7 +10,7 @@ Full-stack web developer from Prague, building websites, games, and homelab infr
 
 <div align="center">
 	  <a href="http://jsemolik.dev"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=jsemolik&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 /></a>
-  	<a href="http://jsemolik.dev"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=jsemolik&langs_count=6&layout=compact&theme=react&hide_border=true" /></a>
+  	<!-- <a href="http://jsemolik.dev"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=jsemolik&langs_count=6&layout=compact&theme=react&hide_border=true" /></a> -->
 </div>
 
 ---
